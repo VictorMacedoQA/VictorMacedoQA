@@ -1,4 +1,4 @@
-<h1 align="center">Olá✌️Seja bem-vindo Victor Corte Macedo Bezerra</h1>
+<h1 align="center">Olá✌️Seja bem-vindo ao meu perfil </h1>
 <h3 align="center">Olá sou Victor, sou QA junior, é prazer te ter em meu perfil</h3>
 
 - 🔭 Atualmente estou trabalhando **Abrão reze**
