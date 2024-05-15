@@ -1,5 +1,5 @@
 <h1 align="center">Olá✌️Seja bem-vindo </h1>
-<h3 align="center">Olá sou Victor, sou QA junior, é prazer te ter em meu perfil</h3>
+<h3 align="center">Sou Victor, sou QA junior, é prazer te ter em meu perfil</h3>
 
 - 🔭 Atualmente estou trabalhando **Abrão reze**
 
