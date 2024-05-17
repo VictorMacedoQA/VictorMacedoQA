@@ -12,7 +12,7 @@
 - 📫 Contato via email: **victor121wrok@gmail.com**
 
 
-- 📫 Contato via LinkedIn
+- 📫 Contato via LinkedIn **www.linkedin.com/in/victor-bezerra-qa131ab131**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
