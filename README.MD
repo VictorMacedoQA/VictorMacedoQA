@@ -1,15 +1,18 @@
-<h1 align="center">Olá✌️Seja bem-vindo Victor Corte Macedo Bezerra</h1>
-<h3 align="center">Olá sou Victor, sou QA junior, é prazer te ter em meu perfil</h3>
+<h1 align="center">Olá✌️Seja bem-vindo </h1>
 
-- 🔭 Atualmente estou trabalhando **Abrão reze**
+   Olá seja bem-vindo ao meu perfil, me chamo Victor, tenho 22 anos e sou de Sorocaba, ainda não possuo uma especialização, pois tive dificuldade em escolher uma area na qual me aprofundar ao término do ensino médio, mas descobri recentemente a profissão ao qual desejo me aprofundar, Quality Assurance ou QA
 
-- 🌱 Atualmente estou aprendendo **Scrum metodologia ágil e programação básica**
+    No início de 2024 iniciei meu bootcamp que me introduziu na area, finalizei o curso e estou estudando e me aprofundando mais nas ferramentas e habilidades que me serão uteis como QA. 
 
-- 👯 Estou procurando colaborar **Projeto voluntário**
+    Durante o curso aprendi sobre levantamento de requisito, design de teste, rastreamento de bugs, teste de aplicativos web, ciclo de vida e desenvolvimento de software, linha de comando, API, e SQL básico.
 
-- 📫 Como chegar até mim **victor121wrok@gmail.com**
+    Atualmente trabalho como motoboy e estou estudando Scrum e BDD busco projetos voluntários para contribuir como QA e adquirir conhecimento e experiência. 
 
-- ⚡ Fato Curioso **Pensador**
+
+- 📫 Contato via email: **victor121wrok@gmail.com**
+
+
+- 📫 Contato via LinkedIn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
