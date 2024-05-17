@@ -1,7 +1,7 @@
 <h1 align="center">Olá✌️Seja bem-vindo </h1>
 <h3 align="center">Sou Victor, sou QA junior, é prazer tê-lo em meu perfil</h3>
 
-- 🔭 Atualmente estou trabalhando **Abrão reze**
+- 🔭 Atualmente trabalho como **Motoboy**
 
 - 🌱 Atualmente estou aprendendo **Scrum metodologia ágil e programação básica**
 
