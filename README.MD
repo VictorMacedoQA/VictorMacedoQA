@@ -1,6 +1,12 @@
 <h1 align="center">Olá✌️Seja bem-vindo </h1>
+<<<<<<< HEAD
 
    Olá seja bem-vindo ao meu perfil, me chamo Victor, tenho 22 anos e sou de Sorocaba, ainda não possuo uma especialização, pois tive dificuldade em escolher uma area na qual me aprofundar ao término do ensino médio, mas descobri recentemente a profissão ao qual desejo me aprofundar, Quality Assurance ou QA
+=======
+<h3 align="center">Sou Victor, sou QA junior, é prazer tê-lo em meu perfil</h3>
+
+- 🔭 Atualmente trabalho como **Motoboy**
+>>>>>>> 0972c4d24ea06aa40b02f44c9367fa75a1cdb337
 
     No início de 2024 iniciei meu bootcamp que me introduziu na area, finalizei o curso e estou estudando e me aprofundando mais nas ferramentas e habilidades que me serão uteis como QA. 
 
