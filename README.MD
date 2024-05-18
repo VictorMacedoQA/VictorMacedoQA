@@ -1,22 +1,15 @@
 <h1 align="center">Olá✌️Seja bem-vindo </h1>
-<<<<<<< HEAD
+<h3 align="center">Olá sou Victor, sou QA junior, é prazer te-lô em meu perfil</h3>
 
-   Olá seja bem-vindo ao meu perfil, me chamo Victor, tenho 22 anos e sou de Sorocaba, ainda não possuo uma especialização, pois tive dificuldade em escolher uma area na qual me aprofundar ao término do ensino médio, mas descobri recentemente a profissão ao qual desejo me aprofundar, Quality Assurance ou QA
-=======
-<h3 align="center">Sou Victor, sou QA junior, é prazer tê-lo em meu perfil</h3>
+- Olá seja bem-vindo ao meu perfil, me chamo Victor, tenho 22 anos e sou de Sorocaba, ainda não possuo uma especialização, pois tive dificuldade em escolher uma area na qual me aprofundar ao término do ensino médio, mas descobri recentemente a profissão ao qual desejo me aprofundar, Quality Assurance ou QA.
 
-- 🔭 Atualmente trabalho como **Motoboy**
->>>>>>> 0972c4d24ea06aa40b02f44c9367fa75a1cdb337
+- No início de 2024 iniciei meu bootcamp que me introduziu na area, finalizei o curso e estou estudando e me aprofundando mais nas ferramentas e habilidades que me serão uteis como QA. 
 
-    No início de 2024 iniciei meu bootcamp que me introduziu na area, finalizei o curso e estou estudando e me aprofundando mais nas ferramentas e habilidades que me serão uteis como QA. 
+- Durante o curso aprendi sobre levantamento de requisito, design de teste, rastreamento de bugs, teste de aplicativos web, ciclo de vida e desenvolvimento de software, linha de comando, API, e SQL básico.
+  
+- Atualmente trabalho como motoboy e estou estudando Scrum e BDD busco projetos voluntários para contribuir como QA e adquirir conhecimento e experiência. 
 
-    Durante o curso aprendi sobre levantamento de requisito, design de teste, rastreamento de bugs, teste de aplicativos web, ciclo de vida e desenvolvimento de software, linha de comando, API, e SQL básico.
-
-    Atualmente trabalho como motoboy e estou estudando Scrum e BDD busco projetos voluntários para contribuir como QA e adquirir conhecimento e experiência. 
-
-
-- 📫 Contato via email: **victor121wrok@gmail.com**
-
+- 📫 Como chegar até mim **victor121wrok@gmail.com**
 
 - 📫 Contato via LinkedIn **www.linkedin.com/in/victor-bezerra-qa131ab131**
 
